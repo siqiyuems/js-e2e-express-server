@@ -12,6 +12,8 @@ products:
 
 # JavaScript end-to-end client file upload to Azure Storage Blobs
 
+[![Build Status](https://dev.azure.com/siqiyue/first_pipeline/_apis/build/status/siqiyuems.js-e2e-express-server?branchName=main)](https://dev.azure.com/siqiyue/first_pipeline/_build/latest?definitionId=2&branchName=main)
+
 This is a basic Express.js server used for JS Dev Experience documentation, in place of the previously used express generator. 
 
 1. Clone repo.
